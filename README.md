@@ -119,11 +119,7 @@ If you encounter bugs or have questions, please open an issue in the [GitHub rep
 
 ---
 
-## ☕ Support the Developer
 
-If you enjoy **Dungeo AI** and want to support continued development, consider buying me a coffee:
-
----
 
 > **Embark on your AI-powered adventure today!** 🏰🚀🔮
 > Dynamic stories, permanent consequences, infinite worlds.
