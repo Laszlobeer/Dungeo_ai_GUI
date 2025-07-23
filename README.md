@@ -1,8 +1,6 @@
 
 # Dungeo AI — RPG Adventure Game
 
-[![Support Me on Ko-fi](https://img.shields.io/badge/Support%20Me%20on-Ko--fi-ff5f5f?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/laszlobeer)
-
 ![Demo](Screen%20Capture_select-area_20250625183819.gif)
 
 
@@ -124,7 +122,6 @@ If you encounter bugs or have questions, please open an issue in the [GitHub rep
 ## ☕ Support the Developer
 
 If you enjoy **Dungeo AI** and want to support continued development, consider buying me a coffee:
-👉 [**https://ko-fi.com/laszlobeer**](https://ko-fi.com/laszlobeer)
 
 ---
 
